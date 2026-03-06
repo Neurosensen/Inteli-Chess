@@ -12,7 +12,7 @@
 
 ## 🎮 Live Demo
 
-Simply open `chess.html` in any modern browser and play instantly — no installation, no server required.
+[Click here](https://neurosensen.github.io/Inteli-Chess/)
 
 ---
 
