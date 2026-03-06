@@ -12,7 +12,7 @@
 
 ## 🎮 Live Demo
 
-[Click here](https://neurosensen.github.io/Inteli-Chess/)
+[Click here](https://neurosensen.github.io/MgnsChess/)
 
 ---
 
