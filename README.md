@@ -127,7 +127,13 @@ The AI uses a classic **Minimax** algorithm enhanced with modern engine techniqu
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here)*
+<img width="675" height="787" alt="image" src="https://github.com/user-attachments/assets/6456fd76-cb39-4551-8d68-aa8150342bb2" />
+<img width="684" height="773" alt="image" src="https://github.com/user-attachments/assets/f5c9eea9-03bf-4897-84c3-32805c04a375" />
+<img width="836" height="776" alt="image" src="https://github.com/user-attachments/assets/e7286a82-47ac-4736-b9fb-0f7dbcf1dd5c" />
+
+
+
+
 
 ---
 
